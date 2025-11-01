@@ -3,10 +3,10 @@
 
 **Overview:**
 
-This project predicts daily ridership on Metro Manila’s MRT-3 line using machine learning regression techniques. It compares the performance of Linear Regression and Random Forest Regression to identify which model best captures ridership patterns based on station and time features.
+This project predicts daily ridership on Metro Manila’s MRT-3 2022-mid 2025 line using machine learning regression techniques. It compares the performance of Linear Regression and Random Forest Regression to identify which model best captures ridership patterns based on station and time features.
 
 **Objectives:**
-- Clean and preprocess MRT-3 ridership data (2022–2025).
+- Clean and preprocess MRT-3 ridership data (2022–mid 2025).
 - Explore and visualize key trends and correlations.
 - Build and evaluate regression models for ridership prediction.
 - Determine the best-performing model based on accuracy and error metrics.
